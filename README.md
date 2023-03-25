@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iqiamir
 - 👀 I’m interested in game development, 3D modelling and Multimedia.
-- 🌱 Currently working as an intern at KidoCode
+- 🌱 Fresh Graduate
 - 📫 How to reach me ?, hit me up on my email - rifqiruzaidi@gmail.com
 
 <!---
