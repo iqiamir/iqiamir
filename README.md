@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iqiamir
-- 👀 I’m interested in game development, 3D modelling and Multimedia.
+- 👀 Looking for a job where i could broaden my horizon and develop
 - 🌱 Fresh Graduate
 - 📫 How to reach me ?, hit me up on my email - rifqiruzaidi@gmail.com
 
