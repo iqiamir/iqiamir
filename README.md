@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iqiamir
-- 👀 Looking for a job where i could broaden my horizon and develop
-- 🌱 Fresh Graduate
+- 👀 Learning to Code day by day.
+- 🌱 
 - 📫 How to reach me ?, hit me up on my email - rifqiruzaidi@gmail.com
 
 <!---
