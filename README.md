@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iqiamir
 - 👀 Learning to Code day by day.
-- 🌱 
+- 🌱 .NET Developer
 - 📫 How to reach me ?, hit me up on my email - rifqiruzaidi@gmail.com
 
 <!---
